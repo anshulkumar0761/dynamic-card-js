@@ -30,10 +30,10 @@ createCard(
     "2 years"
 );
 createCard(
-    "https://i.ytimg.com/vi/tVzUXW6siu0/hqdefault.jpg",
-    "JavaScript Exercise 13 - Solution & Shoutouts | Sigma Web Development Course - Tutorial #77",
-    "Code with Harry",
-    "27000000",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPF3a3VZIuI2MP9ELmk0KuPzidXznM9v5257GSfn6AtQ&s=10",
+    "Dark-type Mythical Pokémon (Generation IV, National № 0491)",
+    "Pokemon Co.",
+    "270000000",
     "2 years"
 );
  
